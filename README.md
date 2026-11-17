@@ -33,4 +33,4 @@ Open a terminal in the project root (the folder that contains src), then run the
 
 ## Screenshots
 
-![Main](docs/2020.png)
+![Main Screenshot](docs/2020.png)
